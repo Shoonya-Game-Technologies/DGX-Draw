@@ -1,7 +1,7 @@
 {
-    "name": "diagrams.net",
-    "short_name": "Diagrams",
-    "description": "diagrams.net is a completely free diagram editor",
+    "name": "DGX Draw",
+    "short_name": "DGX Draw",
+    "description": "DGX Draw - Smart P&ID Tool",
     "icons": [
         {
             "src": "/images/android-chrome-196x196.png",
